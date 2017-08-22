@@ -1,0 +1,214 @@
+
+
+/*Extra small device*/
+@media (max-width:767px) {
+    .common_bg
+{
+    background-color:deepskyblue;
+    margin-top: 15px;
+}
+.item-one
+{
+     background-color:darkslategray;
+}
+.item-two
+{
+     background-color:teal;
+     height:80px;
+     margin-top: 15px;
+}
+.padding_right_disable
+{
+    padding-right: 15px;
+}
+.header_height
+{
+    min-height:100px;
+  
+}
+.brand,.global_nav,.tools
+{
+    height:50px;
+    background-color:darkslategray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+     color: white;
+    text-align: center;
+}
+
+.hero_height
+{
+    min-height: 150px;
+    
+}
+.add
+{
+    color: white;
+    text-align: center;
+}
+.hero_feautre,.call_to_action
+{
+    height: 70px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+.article_height
+{
+    min-height: 160px;
+}
+.article_feature,.article_listing
+{
+    height: 100px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+     color: white;
+    text-align: center;
+}
+.sidebar_content
+{
+    height: 120px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+     color: white;
+    text-align: center;
+}
+
+.sidebar_feature
+{
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 1px;
+    
+}
+
+.footer_height
+{
+    min-height: 80px;
+    margin-bottom:20px;
+}
+
+.copyright
+{
+    height: 70px;
+    margin-top: 5px;
+    color: white;
+    text-align: center;
+}
+    
+}
+
+/*small device*/
+@media (min-width:768px) and (max-width:991px) {
+.common_bg
+{
+    background-color:deepskyblue;
+    margin-top: 15px;
+}
+.item-one
+{
+     background-color:darkslategray;
+}
+.item-two
+{
+     background-color:teal;
+     height: 150px;
+     margin-top: 15px;
+}
+.padding_right_disable
+{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.header_height
+{
+    min-height:100px;
+  
+}
+.brand,.global_nav,.tools
+{
+    height:70px;
+    background-color:darkslategray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+     color: white;
+    text-align: center;
+}
+
+.hero_height
+{
+    min-height: 150px;
+    
+}
+.add
+{
+    color: white;
+    text-align: center;
+}
+.hero_feautre,.call_to_action
+{
+    height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+.article_height
+{
+    min-height: 160px;
+}
+.article_feature,.article_listing
+{
+    height: 150px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+     color: white;
+    text-align: center;
+}
+.sidebar_content
+{
+    height: 120px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+     color: white;
+    text-align: center;
+}
+
+.sidebar_feature
+{
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 1px;
+    
+}
+
+.footer_height
+{
+    min-height: 80px;
+    margin-bottom:20px;
+}
+
+.copyright
+{
+    height: 70px;
+    margin-top: 5px;
+    color: white;
+    text-align: center;
+}
+    
+}
+
+
+/*medium device*/
+@media (min-width:992px) and (max-width:1199px) { 
+}
+
+
+/*Large device*/
+@media (min-width: 1200px) {
+}
